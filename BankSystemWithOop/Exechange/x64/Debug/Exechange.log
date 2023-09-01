@@ -1,0 +1,3 @@
+﻿  Exechange.cpp
+D:\programming_advice\BankSystemWithOop\Exechange\clsCurrnceyCalculator.h(17,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Exechange.vcxproj -> D:\programming_advice\BankSystemWithOop\Exechange\x64\Debug\Exechange.exe
